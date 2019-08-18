@@ -1,4 +1,7 @@
-# learntocode
+# LearnToCode
+All places where we can learn different things code related. 
+These are not some language specific sources, we all know that you can google or find on github some project to study.
+These sources provide   batch, vide variaty of studies like patterns, architectures, languages etc. 
 
 # With visual
 - <a href="https://www.codingame.com/start">CodinGame</a>
