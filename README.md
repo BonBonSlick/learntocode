@@ -51,7 +51,7 @@ These sources provide   batch, vide variaty of studies like patterns, architectu
 -  <a href="http://www.intuit.ru/studies/courses">Intuit</a>
 - <a href="http://hyperpolyglot.org/">HyperPolyglot</a>
 - <a href="https://learnxinyminutes.com/">LearnXiny>inutes</a>
-- <a href="https://medium.freecodecamp.com/tagged/web-development"Medium.FreeCodeCamp</a>
+- <a href="https://medium.freecodecamp.com/tagged/web-development">Medium.FreeCodeCamp</a>
 - <a href="https://github.com/zualex/devmap">DevMap</a>
 - <a href="http://www.json.org/json-ru.html">Json</a>
 - <a href="https://strangeway.org/">StrangeWay</a>
